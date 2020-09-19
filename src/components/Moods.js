@@ -18,13 +18,13 @@ STEP 1: DONE
   The 'mood' slice of state should be initialized to one of the three variables right below our imports.
   Those variables exist so we don't need to write those long strings anywhere inside the component.
 
-STEP 2: DONE ?
+STEP 2: DONE 
   Make the color of the text be royalblue if the state of the mood is happy, crimson otherwise.
 
 STEP 3: DONE
   Remove the hard-coded mood and interpolate the 'mood' slice of state instead, using curly brackets.
 
-STEPS 4, 5, 6:
+STEPS 4, 5, 6: DONE
   Inside these click handlers set the correct mood, using 'setMood' and the variables below the imports.
 */
 
