@@ -26,14 +26,14 @@ This project includes a `src/components` folder containing several React compone
 - [x] Start up the app using `npm start`.
 - [x] Optionally run tests using `npm test`. (The app must be running on `http://localhost:1234`)
 - [x] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: `git push origin <firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: `git push origin <firstName-lastName>`.
 
 ### Task 2a: Minimum Viable Product
 
-1. Each component has the required slices of state.
-2. Each component's event handlers allow the user of the app to update state.
-3. Updated state is correctly reflected in the DOM for each component.
+[ ] 1. Each component has the required slices of state.
+[ ] 2. Each component's event handlers allow the user of the app to update state.
+[ ] 3. Updated state is correctly reflected in the DOM for each component.
 
 #### Steps
 
